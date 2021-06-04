@@ -386,11 +386,68 @@
 -  [JavaScript.DOM编程艺术（第2版）](https://pan.baidu.com/s/10Vgo1xnN4CdipsFKRyxixg )  提取码：5hjh  
 -  [[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版](https://pan.baidu.com/s/1L7Fr5vanqXPtqaobMruTXg )  提取码：dcx2 
 
+## 15 笔试面试
+
+-  [招聘笔记](https://pan.baidu.com/s/12YzqwrYWT68q4HLtxTc1Tw )  提取码：zjne 
+-  [牛客网Java工程师校招面试题库](https://pan.baidu.com/s/12lELzJ8Yz_cm_MiaFdBr8g )  提取码：qeks 
+-  [牛客网IT名企2016笔试真题+答案](https://pan.baidu.com/s/10tFyEmFTe2SMWB5HjJ9YaA )  提取码：7vyy 
+-  [牛客SQL练习题1-61答案与解析](https://pan.baidu.com/s/1Zat5NJSteTBK1nAJlPPh0w  )  提取码：dsee
+-  [机器学习常见面试题](https://pan.baidu.com/s/1QDvcLmLbEXuzLrNaHLvMZQ )  提取码：2qrz 
+-  [机器学习 算法工程师带你去面试](https://pan.baidu.com/s/1VKa_VZnosXij3osTJRlsvQ )  提取码：rp5t 
+-  [程序员面试宝典](https://pan.baidu.com/s/1_HfsGSMrP0bdb5Wtgp06Vg )  提取码：migk 
+-  [阿里Java面试问题大全](https://pan.baidu.com/s/1RemR_D7zIXjRL1N2uBDfEA )  提取码：vg1e 
+-  [Java突击面试大总结](https://pan.baidu.com/s/1XhUoFfmfuN6JQJyzQE5b-g )  提取码：u7mf
+-  [Java面试突击-V3.0](https://pan.baidu.com/s/1jlOFiGdMTAGYmog0EnU5OQ )  提取码：tn5g 
+-  [Java程序员面试宝典](https://pan.baidu.com/s/1Eg5gAN4wQh66EqkuioeAIw  )  提取码：tgbh 
+-  [c++面经总结](https://pan.baidu.com/s/1szK8-pZnHgQkFCQrLQlTHg )  提取码：k5da 
+-  [C++面经 - 牛客大佬总结的涉及C++ 操作系统 计算机网络 数据库等知识点](https://pan.baidu.com/s/1t0Y-I7iaQFUxC5oUwofMJA  )  提取码：5hyz 
+-  [2018最新BAT python面试题](https://pan.baidu.com/s/1svpSHMQa50vyXo90j3v-Eg  )  提取码：rbtt   
+
+## 16 git
+
+-  [专业git中文](https://pan.baidu.com/s/1_zH3C0e3hwBNvqNGlw8KMA  )  提取码：afqe 
+-  [从0开始学习GitHub系列](https://pan.baidu.com/s/1SQPiq9BrdJfMctf4w5TRYA )  提取码：2944 
+-  [Git权威指南](https://pan.baidu.com/s/1aCtYASODVilebGlVWJRt8w  )  提取码：sg9l 
+-  [Git参考手册-新](https://pan.baidu.com/s/1QV1zJtEeGNq4r1p-E6PmyQ  )  提取码：fkhg
+
+## 17 软技能
+
+-  [重构：改善既有代码的设计（第2版）](https://pan.baidu.com/s/11RUaaRTzr23TMCaFQawM3w)  提取码：rgvj
+-  [孙金城丨阿里巴巴-Blink SQL关键技术及实现原理](https://pan.baidu.com/s/1QXc1l88RoSbv3vaIha3WNg)  提取码：kna9 
+-  [软件工程-实践者的研究方法.8th](https://pan.baidu.com/s/146tQFKv_DyFOXkJtdMl-QA )  提取码：3r05 
+-  [人月神话-中文-目录-文字版](https://pan.baidu.com/s/1hyNonwQ1U7KFc-xps7keeg )  提取码：nft9 
+-  [敏捷软件开发：原则、模式与实践](https://pan.baidu.com/s/1szJU6lyxC_BKPEzqSYAWSA )  提取码：egls 
+-  [浪潮之巅（完整版）](https://pan.baidu.com/s/10dnEHg40xlxZwvwubNWPCA)  提取码：421n 
+-  [技术之瞳+阿里巴巴技术笔试心得](https://pan.baidu.com/s/1QAbHRHZH_w1NlsHlj1B8sQ  )  提取码：x61c  
+-  [华为金融大数据解决方案汇报V2.0](https://pan.baidu.com/s/12KNGcDTiji3dHJ3tUIn2gQ )  提取码：axs5 
+-  [华为大数据应用开发指南](https://pan.baidu.com/s/1dTcIqIkK9LgdF1HbHiWWsQ )  提取码：w13i
+-  [黑客与画家](https://pan.baidu.com/s/1TiH_Mn3i_C2QIAMJ2_-ktA)  提取码：npt5   
+-  [概念与技术（第3版）](https://pan.baidu.com/s/18PnDMkaAm5zF7LioYxtPFQ )  提取码：rat4   
+-  [代码整洁之道](https://pan.baidu.com/s/1xYuj5O3OFI4lJXl76u68Pw )  提取码：chra
+-  [代码大全2中文版](https://pan.baidu.com/s/1dCVYr7KTexzHemXlgv1s4g )  提取码：4vf7 
+-  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1hl0uG0Z3m5g5PayBnGVT0g )  提取码：fvpb 
+-  [程序员健康指南](https://pan.baidu.com/s/1WNkqUQPSIKBccNpBvNn9PQ )  提取码：pfkw 
+-  [程序开发心理学](https://pan.baidu.com/s/1L4sdE-BtdULOrYlYpLZ8fA )  提取码：77vy
+-  [奔跑吧，程序员：从零开始打造产品、技术和团队](https://pan.baidu.com/s/1uv5LmbHNS9JKdzbHGVBmKg )  提取码：u5xp 
+-  [阿里双十一技术](https://pan.baidu.com/s/1FwgmZqmS3m6d7b7TAlP0Kw )  提取码：hyff 
+-  [how-to-be-a-programmer-cn](https://pan.baidu.com/s/18cgnL8pxPYQtxvhqUn7Svg )  提取码：okjh 
+-  [《码农翻身：用故事给技术加点料》_刘欣](https://pan.baidu.com/s/1oKndjbBF4jwFgRrS-v7iVw )  提取码：up79 
+
+## 18 程序员相关的数学
+
+-  [数学之美](https://pan.baidu.com/s/1Vkaj-F0d4iJOcpSiMG6amQ )  提取码：pdy7 
+-  [离散数学及其应用](https://pan.baidu.com/s/1vqmnwOzyqKY_9hoIuEeTxQ )  提取码：sesa 
+-  [计算复杂性：现代方法](https://pan.baidu.com/s/1EzKC2e07LC254fS6iQsgTA )  提取码：yt7s  
+-  [概率论与数理统计 - 陈希孺](https://pan.baidu.com/s/1hoX2cpFf8iLGdyvPMBSy2A )  提取码：3i75 
+-  [程序员的数学卷3-线性代数](https://pan.baidu.com/s/18C4ingEpE4KNF7ebF5lBjg )  提取码：nq28 
+-  [程序员的数学卷2-概率统计](https://pan.baidu.com/s/1g5CQTJJUSLqZaPvyQbtqmg  )  提取码：p9k
+-  [程序员的数学卷1一 清晰版](https://pan.baidu.com/s/1Tzd6eVEnf2GCgkSg_zTqDQ )  提取码：amqa 
+-  [Operations Research Applications And Algorithms](https://pan.baidu.com/s/1nofFSw9D8u4PPfeYoVJd7g )  提取码：pthp 
+-  [Discrete Mathematics and Its Applications](https://pan.baidu.com/s/1JeUR9gGMAd6WvIvyOo3kBQ )  提取码：yjum
+-  [Computational Complexity_ A Modern Approach](https://pan.baidu.com/s/1y-ldbfKrUbw7gf1sV899_w  )  提取码：5wo8 
+
 
 
 持续更新中。。。。
-
-
-
 
 
